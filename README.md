@@ -46,6 +46,17 @@ Just place your code inside both actions and use the contents of the `$params` a
 
 You can override the default values if you need to.
 
+### Get permalinks
+
+The plugin includes a function to retrieve the permalink to any of the related pages.
+
+To use it call `Profiles::getPermalink($slug)` where `$slug` can be one of:
+
+- `register`
+- `login`
+- `profile`
+- `recover`
+
 ### Translating the messages
 
 The plugin includes a `.po` file that you may translate into another language to localize the UI and messages.
