@@ -63,10 +63,8 @@ The plugin includes a `.po` file that you may translate into another language to
 
 If you create a translation please send me a pull request so that I include it in the repo.
 
-## License
+## Licensing
 
-Released under the **MIT License**.
+MIT licensed
 
-## Author
-
-biohzrdmx - https://github.com/biohzrdmx - https://biohzrdmx.me
+Author: biohzrdmx [<github.com/biohzrdmx>](https://github.com/biohzrdmx)
