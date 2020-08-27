@@ -4,8 +4,8 @@
 	 * Description: Allow your users to sign-up to your site easily
 	 * Author: biohzrdmx
 	 * Version: 1.1
-	 * Plugin URI: http://github.com/biohzrdmx/
-	 * Author URI: http://github.com/biohzrdmx/wp-profiles
+	 * Plugin URI: http://github.com/biohzrdmx/wp-profiles
+	 * Author URI: http://github.com/biohzrdmx/
 	 */
 
 	if( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
